@@ -1,0 +1,101 @@
+student_id,major,year,ai_frequency,ai_hours_per_week,primary_purpose,critical_check_score,gpa
+SV001,Quan tri Kinh doanh,1,Hang ngay,12.8,Tim kiem & Tom tat tai lieu,5.0,3.19
+SV002,Cong nghe Thong tin,4,Thinh thoang,3.3,On tap & Tao cau hoi trắc nghiem,2.8,3.03
+SV003,Cong nghe Thong tin,3,Thinh thoang,2.6,Giai thich khai niem & Debug code,2.4,2.92
+SV004,Kinh te Doi ngoai,4,Thinh thoang,2.9,On tap & Tao cau hoi trắc nghiem,2.7,2.83
+SV005,Khoa hoc Du lieu,1,Thinh thoang,4.5,Tim kiem & Tom tat tai lieu,3.8,3.05
+SV006,Ngon ngu Anh,4,Thuong xuyen,8.8,Giai thich khai niem & Debug code,4.6,3.49
+SV007,Quan tri Kinh doanh,4,Thuong xuyen,7.7,Ho tro viet luan & Sua ngu phap,3.8,3.29
+SV008,Cong nghe Thong tin,3,Hang ngay,11.5,On tap & Tao cau hoi trắc nghiem,5.0,
+SV009,Quan tri Kinh doanh,4,Hang ngay,10.5,On tap & Tao cau hoi trắc nghiem,4.7,3.16
+SV010,Khoa hoc Du lieu,2,Thinh thoang,2.7,Giai thich khai niem & Debug code,2.4,2.91
+SV011,Quan tri Kinh doanh,3,Hiem khi,0.8,Ho tro viet luan & Sua ngu phap,2.0,2.67
+SV012,Cong nghe Thong tin,3,Thuong xuyen,8.0,Tim kiem & Tom tat tai lieu,4.4,3.49
+SV013,Kinh te Doi ngoai,3,Thinh thoang,4.5,Giai thich khai niem & Debug code,3.5,2.95
+SV014,Ngon ngu Anh,2,Thuong xuyen,6.6,Tim kiem & Tom tat tai lieu,3.7,3.46
+SV015,Cong nghe Thong tin,1,Hiem khi,2.0,Giai thich khai niem & Debug code,2.9,2.57
+SV016,Quan tri Kinh doanh,1,Thinh thoang,2.8,Ho tro viet luan & Sua ngu phap,2.4,2.89
+SV017,Ngon ngu Anh,1,Hiem khi,1.2,Ho tro viet luan & Sua ngu phap,2.8,2.53
+SV018,Ngon ngu Anh,1,Thuong xuyen,5.9,Giai thich khai niem & Debug code,3.7,3.48
+SV019,Kinh te Doi ngoai,2,Hang ngay,13.0,Giai thich khai niem & Debug code,5.0,3.2
+SV020,Quan tri Kinh doanh,3,Hang ngay,12.5,On tap & Tao cau hoi trắc nghiem,5.0,3.28
+SV021,Ngon ngu Anh,1,Hiem khi,2.4,Ho tro viet luan & Sua ngu phap,3.1,2.64
+SV022,Ngon ngu Anh,3,Hang ngay,13.0,Tim kiem & Tom tat tai lieu,5.0,3.16
+SV023,Quan tri Kinh doanh,2,Hiem khi,1.2,Ho tro viet luan & Sua ngu phap,2.7,2.49
+SV024,Ngon ngu Anh,2,Hang ngay,,Ho tro viet luan & Sua ngu phap,5.0,3.07
+SV025,Cong nghe Thong tin,2,Thinh thoang,3.7,Giai thich khai niem & Debug code,3.2,3.1
+SV026,Cong nghe Thong tin,4,Thuong xuyen,6.4,On tap & Tao cau hoi trắc nghiem,3.4,3.46
+SV027,Kinh te Doi ngoai,1,Thuong xuyen,7.3,Ho tro viet luan & Sua ngu phap,4.5,3.5
+SV028,Cong nghe Thong tin,3,Thuong xuyen,6.3,Tim kiem & Tom tat tai lieu,3.6,3.3
+SV029,Quan tri Kinh doanh,1,Hiem khi,2.2,On tap & Tao cau hoi trắc nghiem,2.5,2.76
+SV030,Kinh te Doi ngoai,2,Thuong xuyen,5.6,Ho tro viet luan & Sua ngu phap,3.4,3.26
+SV031,Khoa hoc Du lieu,4,Thuong xuyen,9.4,Giai thich khai niem & Debug code,4.9,3.57
+SV032,Ngon ngu Anh,4,Hiem khi,2.3,Giai thich khai niem & Debug code,2.5,2.7
+SV033,Kinh te Doi ngoai,4,Thuong xuyen,5.6,Ho tro viet luan & Sua ngu phap,3.9,3.41
+SV034,Kinh te Doi ngoai,4,Hang ngay,10.0,On tap & Tao cau hoi trắc nghiem,4.5,3.33
+SV035,Khoa hoc Du lieu,1,Thinh thoang,5.4,Giai thich khai niem & Debug code,3.2,3.22
+SV036,Khoa hoc Du lieu,1,Thinh thoang,4.7,On tap & Tao cau hoi trắc nghiem,3.4,2.93
+SV037,Khoa hoc Du lieu,2,Thinh thoang,3.0,Tim kiem & Tom tat tai lieu,3.0,3.0
+SV038,Cong nghe Thong tin,3,Hiem khi,1.3,Ho tro viet luan & Sua ngu phap,2.2,2.46
+SV039,Khoa hoc Du lieu,3,Hiem khi,1.7,Tim kiem & Tom tat tai lieu,2.8,2.67
+SV040,Khoa hoc Du lieu,4,Thuong xuyen,6.9,On tap & Tao cau hoi trắc nghiem,4.0,3.48
+SV041,Kinh te Doi ngoai,4,Hiem khi,1.7,On tap & Tao cau hoi trắc nghiem,2.7,2.58
+SV042,Quan tri Kinh doanh,3,Thuong xuyen,8.2,Ho tro viet luan & Sua ngu phap,4.3,3.4
+SV043,Khoa hoc Du lieu,1,Hiem khi,1.9,Ho tro viet luan & Sua ngu phap,2.9,2.52
+SV044,Khoa hoc Du lieu,4,Thinh thoang,3.2,On tap & Tao cau hoi trắc nghiem,2.7,2.94
+SV045,Kinh te Doi ngoai,1,Hang ngay,11.6,Giai thich khai niem & Debug code,4.7,3.3
+SV046,Quan tri Kinh doanh,2,Thuong xuyen,8.0,On tap & Tao cau hoi trắc nghiem,4.3,3.37
+SV047,Ngon ngu Anh,1,Thinh thoang,2.8,Ho tro viet luan & Sua ngu phap,2.6,2.88
+SV048,Kinh te Doi ngoai,3,Thuong xuyen,6.4,Tim kiem & Tom tat tai lieu,3.3,3.29
+SV049,Kinh te Doi ngoai,3,Thinh thoang,2.8,Giai thich khai niem & Debug code,2.7,
+SV050,Khoa hoc Du lieu,2,Hang ngay,10.9,On tap & Tao cau hoi trắc nghiem,4.5,3.17
+SV051,Kinh te Doi ngoai,1,Thinh thoang,2.8,Tim kiem & Tom tat tai lieu,3.4,2.91
+SV052,Khoa hoc Du lieu,1,Hang ngay,13.1,On tap & Tao cau hoi trắc nghiem,5.0,3.24
+SV053,Khoa hoc Du lieu,4,Thuong xuyen,8.0,Tim kiem & Tom tat tai lieu,4.4,3.38
+SV054,Khoa hoc Du lieu,3,Thuong xuyen,7.4,Giai thich khai niem & Debug code,4.1,3.4
+SV055,Cong nghe Thong tin,2,Hang ngay,10.8,Ho tro viet luan & Sua ngu phap,4.6,3.17
+SV056,Khoa hoc Du lieu,4,Thinh thoang,3.0,Tim kiem & Tom tat tai lieu,3.0,2.87
+SV057,Kinh te Doi ngoai,3,Thinh thoang,3.2,Ho tro viet luan & Sua ngu phap,3.0,2.91
+SV058,Quan tri Kinh doanh,2,Hiem khi,1.5,Ho tro viet luan & Sua ngu phap,2.9,2.49
+SV059,Kinh te Doi ngoai,4,Hiem khi,0.7,Tim kiem & Tom tat tai lieu,2.0,2.41
+SV060,Kinh te Doi ngoai,3,Thinh thoang,2.9,Tim kiem & Tom tat tai lieu,3.3,2.88
+SV061,Ngon ngu Anh,3,Thinh thoang,3.8,Tim kiem & Tom tat tai lieu,2.9,2.99
+SV062,Kinh te Doi ngoai,3,Hiem khi,2.0,On tap & Tao cau hoi trắc nghiem,2.6,2.62
+SV063,Quan tri Kinh doanh,1,Hiem khi,1.1,Tim kiem & Tom tat tai lieu,2.9,2.47
+SV064,Ngon ngu Anh,2,Hang ngay,12.4,Ho tro viet luan & Sua ngu phap,5.0,3.31
+SV065,Khoa hoc Du lieu,1,Hiem khi,1.6,On tap & Tao cau hoi trắc nghiem,2.3,2.67
+SV066,Ngon ngu Anh,3,Hang ngay,8.4,Tim kiem & Tom tat tai lieu,4.6,3.35
+SV067,Kinh te Doi ngoai,1,,6.6,Ho tro viet luan & Sua ngu phap,3.4,3.43
+SV068,Cong nghe Thong tin,3,Thuong xuyen,6.2,Ho tro viet luan & Sua ngu phap,3.3,3.5
+SV069,Khoa hoc Du lieu,1,Hang ngay,12.7,Ho tro viet luan & Sua ngu phap,5.0,3.08
+SV070,Quan tri Kinh doanh,4,Hang ngay,12.3,Giai thich khai niem & Debug code,5.0,3.28
+SV071,Quan tri Kinh doanh,2,Thuong xuyen,7.2,Ho tro viet luan & Sua ngu phap,4.4,3.28
+SV072,Cong nghe Thong tin,4,Thinh thoang,3.6,Tim kiem & Tom tat tai lieu,3.3,2.95
+SV073,Cong nghe Thong tin,2,Hiem khi,1.6,On tap & Tao cau hoi trắc nghiem,2.5,2.54
+SV074,Khoa hoc Du lieu,4,Thinh thoang,5.4,Giai thich khai niem & Debug code,3.8,3.22
+SV075,Kinh te Doi ngoai,4,Thuong xuyen,8.2,Giai thich khai niem & Debug code,4.4,3.41
+SV076,Khoa hoc Du lieu,1,Hiem khi,1.7,Tim kiem & Tom tat tai lieu,2.3,2.48
+SV077,Ngon ngu Anh,1,Thuong xuyen,7.3,Giai thich khai niem & Debug code,4.2,3.52
+SV078,Kinh te Doi ngoai,4,Thuong xuyen,8.3,Tim kiem & Tom tat tai lieu,4.2,3.51
+SV079,Ngon ngu Anh,4,Thuong xuyen,6.5,Ho tro viet luan & Sua ngu phap,4.1,3.31
+SV080,Ngon ngu Anh,1,Hang ngay,10.6,On tap & Tao cau hoi trắc nghiem,5.0,3.2
+SV081,Quan tri Kinh doanh,2,Hang ngay,11.9,Tim kiem & Tom tat tai lieu,5.0,3.28
+SV082,Cong nghe Thong tin,4,Thinh thoang,4.9,Tim kiem & Tom tat tai lieu,3.0,3.16
+SV083,Quan tri Kinh doanh,3,Thinh thoang,3.0,Ho tro viet luan & Sua ngu phap,3.1,3.02
+SV084,Cong nghe Thong tin,2,Thinh thoang,2.7,Ho tro viet luan & Sua ngu phap,2.4,2.78
+SV085,Khoa hoc Du lieu,1,Thuong xuyen,,Ho tro viet luan & Sua ngu phap,3.5,3.42
+SV086,Khoa hoc Du lieu,2,Thinh thoang,2.9,Giai thich khai niem & Debug code,2.7,2.92
+SV087,Cong nghe Thong tin,1,Thinh thoang,3.8,Ho tro viet luan & Sua ngu phap,3.6,3.01
+SV088,Ngon ngu Anh,1,Thuong xuyen,7.6,Giai thich khai niem & Debug code,4.0,3.51
+SV089,Khoa hoc Du lieu,3,Hiem khi,2.1,Giai thich khai niem & Debug code,2.9,2.51
+SV090,Cong nghe Thong tin,1,Thinh thoang,3.9,Tim kiem & Tom tat tai lieu,2.7,3.13
+SV091,Khoa hoc Du lieu,2,Thinh thoang,4.7,Ho tro viet luan & Sua ngu phap,3.4,2.97
+SV092,Khoa hoc Du lieu,1,Hang ngay,13.4,Tim kiem & Tom tat tai lieu,5.0,3.18
+SV093,Kinh te Doi ngoai,3,Thuong xuyen,6.8,Tim kiem & Tom tat tai lieu,3.5,3.5
+SV094,Ngon ngu Anh,4,Thuong xuyen,7.1,Tim kiem & Tom tat tai lieu,4.4,3.31
+SV095,Cong nghe Thong tin,3,Thuong xuyen,6.9,Ho tro viet luan & Sua ngu phap,4.4,3.4
+SV096,Khoa hoc Du lieu,4,Hang ngay,10.8,Ho tro viet luan & Sua ngu phap,4.7,3.33
+SV097,Cong nghe Thong tin,4,Thuong xuyen,6.4,On tap & Tao cau hoi trắc nghiem,3.6,3.46
+SV098,Ngon ngu Anh,4,Thinh thoang,3.1,Tim kiem & Tom tat tai lieu,2.6,2.91
+SV099,Khoa hoc Du lieu,2,Hiem khi,1.9,Tim kiem & Tom tat tai lieu,2.4,2.73
+SV100,Cong nghe Thong tin,1,Thinh thoang,3.7,Tim kiem & Tom tat tai lieu,2.9,2.93

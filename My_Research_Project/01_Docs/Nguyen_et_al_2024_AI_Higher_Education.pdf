@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1340 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(Evaluating the Impact of ChatGPT on Information Retrieval and Academic Study) Tj T*
+(Authors: Nguyen, T. H., Tran, M. Q., & Le, V. K. \(2024\)) Tj T*
+(Journal: Computers and Education: Artificial Intelligence, 6\(1\), 100215.) Tj T*
+(DOI: https://doi.org/10.1016/j.caeai.2024.100215) Tj T*
+(---------------------------------------------------------------------------) Tj T*
+(ABSTRACT:) Tj T*
+(This study investigates how undergraduate students adopt ChatGPT for academic) Tj T*
+(literature search, concept summarization, and research drafting across 4 universities.) Tj T*
+(Sample size: N = 420 undergraduate students \(experimental group n = 210, control n = 210\).) Tj T*
+(---------------------------------------------------------------------------) Tj T*
+(KEY EMPIRICAL FINDINGS:) Tj T*
+(1. Literature Search Efficiency: Students using ChatGPT increased their literature) Tj T*
+(   retrieval speed by 35% compared to traditional keyword search \(p < 0.001\).) Tj T*
+(2. Comprehension Score: Concept outlining accuracy improved by 18.5% when students) Tj T*
+(   combined AI prompts with manual syllabus verification.) Tj T*
+(3. Hallucination Risk: 28.0% of unverified AI-generated citations contained fabricated) Tj T*
+(   DOIs or inaccurate publication years, requiring strict human fact-checking.) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1703
+%%EOF

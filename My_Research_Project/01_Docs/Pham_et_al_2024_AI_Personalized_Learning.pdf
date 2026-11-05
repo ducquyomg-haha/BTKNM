@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1360 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(AI-Assisted Personalized Learning and Student GPA Performance in Higher Education) Tj T*
+(Authors: Pham, D. A., Hoang, B. N., & Vu, T. L. \(2024\)) Tj T*
+(Journal: Education and Information Technologies, 29\(4\), 4815-4836.) Tj T*
+(DOI: https://doi.org/10.1007/s10639-024-12580-3) Tj T*
+(---------------------------------------------------------------------------) Tj T*
+(ABSTRACT:) Tj T*
+(This longitudinal study evaluates how structured AI tutoring and self-regulated) Tj T*
+(AI usage frequency affect semester Grade Point Average \(GPA\) across disciplines.) Tj T*
+(Sample size: N = 510 students across Computer Science, Economics, and Social Sciences.) Tj T*
+(---------------------------------------------------------------------------) Tj T*
+(KEY EMPIRICAL FINDINGS:) Tj T*
+(1. GPA Improvement: Moderate, structured AI usage \(4 to 8 hours/week\) was associated) Tj T*
+(   with an average GPA increase of +0.34 points \(on a 4.0 scale\) compared to non-users.) Tj T*
+(2. Optimal Usage Pattern: Students using AI 'Frequently' \(3-5 days/week\) achieved the) Tj T*
+(   highest mean GPA \(3.42\), outperforming both 'Rarely' \(2.88\) and excessive passive users.) Tj T*
+(3. Positive Correlation: Overall guided AI study hours showed a moderate positive) Tj T*
+(   correlation with academic GPA \(r = 0.58, p < 0.001\).) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1723
+%%EOF

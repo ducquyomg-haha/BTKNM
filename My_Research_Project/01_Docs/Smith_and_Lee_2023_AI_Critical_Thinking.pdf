@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1316 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(Generative AI in Undergraduate Education: Impacts on Critical Thinking) Tj T*
+(Authors: Smith, J. R., & Lee, H. J. \(2023\)) Tj T*
+(Journal: Studies in Higher Education, 48\(11\), 1742-1758.) Tj T*
+(DOI: https://doi.org/10.1080/03075079.2023.2189401) Tj T*
+(---------------------------------------------------------------------------) Tj T*
+(ABSTRACT:) Tj T*
+(This empirical study examines the relationship between generative AI reliance) Tj T*
+(and critical thinking disposition among university students over one semester.) Tj T*
+(Sample size: N = 315 undergraduate students assessed via Cornell Critical Thinking Test.) Tj T*
+(---------------------------------------------------------------------------) Tj T*
+(KEY EMPIRICAL FINDINGS:) Tj T*
+(1. Passive Dependency Risk: Students who copied AI responses without critical review) Tj T*
+(   showed a 22.4% decline in analytical reasoning and argument evaluation scores \(p = 0.002\).) Tj T*
+(2. Active Verification Benefit: Students who cross-checked AI outputs against primary) Tj T*
+(   academic sources improved critical evaluation scores by 14.2%.) Tj T*
+(3. Threshold Effect: Over-reliance \(>12 hours/week of unguided AI usage\) correlated) Tj T*
+(   negatively with independent problem-solving retention \(r = -0.31\).) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1679
+%%EOF
